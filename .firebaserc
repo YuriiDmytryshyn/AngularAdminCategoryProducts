@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "july-ca08d": {
+      "hosting": {
+        "AngularAdminCategory": [
+          "july-ca08d"
+        ]
+      }
+    }
+  }
+}
